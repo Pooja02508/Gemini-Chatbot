@@ -1,5 +1,5 @@
 package gemini.chatbot
 
 object Constants {
-    val apiKey = "AIzaSyDSZYcaV6VJdD1ypInDJfNLDDRdhUA1OW0"
+    val apiKey = "YOUR_API_KEY"
 }
